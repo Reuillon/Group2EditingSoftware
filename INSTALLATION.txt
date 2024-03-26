@@ -1,0 +1,5 @@
+Step 1: Click button with label "<> Code" near the top of repository
+Step 2: Click "Download ZIP"
+Step 3: After downloading zip, extract its contents into a local folder, and open the folder 
+
+IMPORTANT: the folder will contain 3 distribution folders, open the one assigned to you and read the "HOW TO RUN.txt" file, which contains further instruction on how to run.
